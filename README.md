@@ -6,11 +6,11 @@
 
 ## Introduction
 An exercise in computer structure course, we were given a task to implement several methods similar to the string.h, as-
-* char pstrlen(Pstring* pstr) -get the length of pstring
+* char pstrlen(Pstring* pstr) - get the length of pstring
 * Pstring* replaceChar(Pstring* pstr, char oldChar, char newChar) - replace all the oldChar with new char in pstring
 * Pstring* pstrijcpy(Pstring* dst, Pstring* src, char i, char j) - copy src[i:j] to dst[i:j]
 * Pstring* swapCase(Pstring* pstr) - replace every A to a, a to A and so on..
-* int pstrijcmp(Pstring* pstr1, Pstring* pstr2, char i, char j) compare between src[i:j] to dst[i:j]
+* int pstrijcmp(Pstring* pstr1, Pstring* pstr2, char i, char j) - compare between src[i:j] to dst[i:j]
 
 ## main.s:
 Getting an int from the user- length of the first "pstring" (n1), then getting n1 chars (without "\n") for the first pstirng.
