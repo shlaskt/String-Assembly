@@ -5,8 +5,9 @@
 
 
 ## Introduction
-An exercise in computer structure course we were given a task to Implement several methods similar to the string.h, as-
+An exercise in computer structure course, we were given a task to implement several methods similar to the string.h, as-
 * char pstrlen(Pstring* pstr)
+get the length of pstring
 * Pstring* replaceChar(Pstring* pstr, char oldChar, char newChar)
 * Pstring* pstrijcpy(Pstring* dst, Pstring* src, char i, char j)
 * Pstring* swapCase(Pstring* pstr)
