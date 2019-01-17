@@ -1,4 +1,4 @@
-# ClientServer Exercise Project:  
+# Assembly Exercise Project:  
 1. [Introduction](#introduction)  
 2. [main.s:](#main.s)  
 3. [Dependencies:](#dependencies)  
